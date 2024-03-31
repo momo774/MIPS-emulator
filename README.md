@@ -1,6 +1,6 @@
 # MIPS Emulator
 
-A MIPS emulator implemented in C++.
+Developed a comprehensive MIPS (Microprocessor without Interlocked Pipelined Stages) emulator using C++ to simulate the functionality of a MIPS processor. The emulator includes an assembler that translates MIPS assembly code into machine code and executes the instructions, mimicking the behavior of a real MIPS processor.
 
 ## MIPS Emulator Design Document
 
